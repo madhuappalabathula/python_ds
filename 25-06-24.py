@@ -27,9 +27,7 @@ Constraints:
 1<= mat.size, mat[0].size, mat[i][j] <=1000
 1<=k<=10000"""
 
-
-
-
+#Solution
 
 class Solution:
     def rotateMatrix(self, k, mat,n):
